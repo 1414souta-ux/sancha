@@ -15,4 +15,4 @@
 //
 // ============================================================
 
-window.GEMINI_API_KEY = 'AIzaSyChlB7TzN41Fr01PXSaHZpw0JGEYE060vM';
+window.GEMINI_API_KEY = 'AIzaSyDu3euwMnA2CDpIxmB1GNzEPpA7bT3J64k';
